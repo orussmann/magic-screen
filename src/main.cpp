@@ -7,11 +7,11 @@
 #include <queue> // Bibliothek für die Queue (Puffer)
 
 // WiFi und MQTT Einstellungen
-const char *ssid = "CoCoLabor2";
-const char *password = "cocolabor12345";
-const char *mqtt_server = "9646933ee59e497dad2baa697c6016ae.s1.eu.hivemq.cloud";
-const char *mqtt_username = "19UserName86";
-const char *mqtt_password = "19Password86";
+const char *ssid = "";
+const char *password = "";
+const char *mqtt_server = "";
+const char *mqtt_username = "";
+const char *mqtt_password = "";
 const int mqtt_port = 8883;
 float incrAngle = 0.0;
 bool afterFirstMessage = false;
