@@ -6,6 +6,7 @@
 #include <SPI.h>
 #include <queue> // Bibliothek für die Queue (Puffer)
 
+//Edited private infomation
 // WiFi und MQTT Einstellungen
 const char *ssid = "";
 const char *password = "";
